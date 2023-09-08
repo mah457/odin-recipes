@@ -1,0 +1,1 @@
+This is my first Odin project. I'm planning on using my newly acquired skills in HTML, CLI, and Git to create a webiste containing recipes. I have already run across issues pertaining to this project, the largest being that my work blocks the port necessary to clone Git repos. Thanks to my VPN I was able to work around this!
